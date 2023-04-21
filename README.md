@@ -1,4 +1,4 @@
-# luna-injection
-the injection for luna token grabber
+# zekry-injection
+the injection for zekry token grabber
 
 ignore this repo
